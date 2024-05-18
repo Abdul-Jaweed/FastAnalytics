@@ -4,4 +4,8 @@
 <h1 align="center">FastAnalytics</h1>
 
 
+<div align='center'>
+
 **FastAnalytics its a Python Data Analytics and Manupulation Framework.**
+
+</div>
